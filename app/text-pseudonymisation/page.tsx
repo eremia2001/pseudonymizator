@@ -23,7 +23,7 @@ export default function TextPseudonymisation() {
     toast({
       title: "Text pseudonymisiert",
       description: "Ihr Text wurde erfolgreich pseudonymisiert.",
-      variant: "success",
+      variant: "default",
     });
   };
 

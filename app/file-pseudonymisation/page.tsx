@@ -34,7 +34,7 @@ export default function FilePseudonymisation() {
         toast({
           title: "Pseudonymisierung abgeschlossen",
           description: "Ihre Dateien wurden erfolgreich pseudonymisiert.",
-          variant: "success",
+          variant: "default",
         });
       }
     }, 500);
