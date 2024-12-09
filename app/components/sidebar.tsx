@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { FileText, Upload, Activity, Bell } from "lucide-react";
+import { FileText, Upload } from "lucide-react";
 
 export function Sidebar() {
   return (
